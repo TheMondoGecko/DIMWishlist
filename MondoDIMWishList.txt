@@ -2,7 +2,8 @@ title:This is a compiled collection of god/recommended rolls from top community 
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, and @johnldixon for their contributions. Ping u/48klocs / @48klocs with any issues.
 
 
-dimwishlist:mobility:>=17
+dimwishlist:basestat:mobility:>=17
+dimwishlist:item=4144240158&basestat:mobility:>=17
 
 
 // ##################################
